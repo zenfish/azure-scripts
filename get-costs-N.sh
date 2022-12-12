@@ -12,8 +12,6 @@ fi
 
 set -e
 
-PATH=/usr/local/bin:/usr/local/sbin:/sbin:/usr/sbin:/usr/bin:/bin:/Users/farmerd/go/bin
-
 Y_M=$(date "+%Y-%m")
 
 subscription="$1"

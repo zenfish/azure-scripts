@@ -51,3 +51,7 @@ Script names and what they do -
 
                                 # NOTE: uses the gdate program in the GNU core-utils (brew install core-utils)
 
+    get-sec.sh                  Even w/o cloud defender or w/e Azure is peddling, they run various security
+                                checks on an ongoing basis against your systems/setup/confs along with their
+                                ratings and severity. This gets those for a subscription.
+
