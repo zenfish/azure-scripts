@@ -55,3 +55,15 @@ Script names and what they do -
                                 checks on an ongoing basis against your systems/setup/confs along with their
                                 ratings and severity. This gets those for a subscription.
 
+    get-anon-blobs.sh           List anonymously accessible containers or blobs in a subscription
+
+    anon-ls.sh                  list the content of an anonymously available container, given the Internet 
+                                URI for the container... this will look something like:
+
+                                    https://[storage-account-name].blob.core.windows.net/container-name
+
+                                    e.g.
+
+                                        https://zenfishy.blob.core.windows.net/flounder
+
+
